@@ -1,0 +1,15 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "test proejct",
+  "main": "demo_http.js",
+  "dependencies": {
+    "http": "^12.8.0"
+  },
+  "scripts": {
+    "start": "node demo_http.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
